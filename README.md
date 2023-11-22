@@ -1,0 +1,2 @@
+# Revolutionized-Real-Estate-Company-Management-System-Using-Python-Web-and-Machine-Learning
+Developing an Revolutionized Real Estate Company Management System, Which helps to Manage all Company data, give Insights. Help to ease Management and Predictive outcomes using Machine Learning. Its actually help us developing all functionalities which helps end-user to use at one platform. Its a Long Project and Currently in Progress.
